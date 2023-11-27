@@ -1,5 +1,7 @@
 # Proyek Submission Dicoding "Belajar Analisis Data dengan Python"
 
+![Bike Sharing Dashboard Streamlit Preview](https://github.com/fadlinisasiGit/bike-sharing-dataset-project/blob/main/SS%20Dashboard%20streamlit.png?raw=true)
+
 ## Project Analisis Data
 
 Repository ini berisi proyek data analytics yang saya kerjakan.
@@ -12,7 +14,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
 - **/dataset**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
 - **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
-- **Proyek_Analisis_Data_Bike_Sharing_Dataset (1).ipynb**: File ini yang digunakan untuk melakukan analisis data.
+- **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
 
